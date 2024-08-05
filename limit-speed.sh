@@ -13,7 +13,7 @@ Info="${Green_font_prefix}[ON]${Font_color_suffix}"
 Error="${Red_font_prefix}[OFF]${Font_color_suffix}"
 NIC=$(ip -o $ANU -4 route show to default | awk '{print $5}');
 down=50000
-up=40000
+up=4000
 
 # Begin 
 clear
