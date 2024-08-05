@@ -12,13 +12,11 @@
 
 - Debian
 ```
-cd /usr/bin
-wget -O limit "https://github.com/praiman99/Auto-Limit-Speed-Bandwith-VPS/raw/Beginner/limit-speed.sh"; chmod +x limit; bash limit
+wget -O AutoLimitSpeedDebian "https://github.com/praiman99/Auto-Limit-Speed-Bandwith-VPS/raw/Beginner/AutoLimitSpeedDebian.sh"; chmod +x AutoLimitSpeedDebian; bash AutoLimitSpeedDebian
 ```
 - Ubuntu
 ```
-cd /usr/sbin
-wget -O limit "https://github.com/praiman99/Auto-Limit-Speed-Bandwith-VPS/raw/Beginner/limit-speed.sh"; chmod +x limit; bash limit
+wget -O AutoLimitSpeedUbuntu "https://github.com/praiman99/Auto-Limit-Speed-Bandwith-VPS/raw/Beginner/AutoLimitSpeedUbuntu.sh"; chmod +x AutoLimitSpeedUbuntu; bash AutoLimitSpeedUbuntu
 ```
 <h3 align="center">Report Bugs Contact</h3>  
 <p align="center">
