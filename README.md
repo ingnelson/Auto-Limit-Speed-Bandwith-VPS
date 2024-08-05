@@ -9,7 +9,8 @@
 
 - 600000 kbps represents 600/500mbps
 - 500000 kbps represents 500/400mbps
-
+- Auto Set Limit Every 6:30 AM
+  
 - Debian
 ```
 wget -O AutoLimitSpeedDebian "https://github.com/praiman99/Auto-Limit-Speed-Bandwith-VPS/raw/Beginner/AutoLimitSpeedDebian.sh"; chmod +x AutoLimitSpeedDebian; bash AutoLimitSpeedDebian
