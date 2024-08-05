@@ -12,8 +12,8 @@ Green_font_prefix="\033[32m" && Red_font_prefix="\033[31m" && Green_background_p
 Info="${Green_font_prefix}[ON]${Font_color_suffix}"
 Error="${Red_font_prefix}[OFF]${Font_color_suffix}"
 NIC=$(ip -o $ANU -4 route show to default | awk '{print $5}');
-down=6000
-up=5000
+down=100000
+up=100000
 
 # Begin 
 clear
