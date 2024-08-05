@@ -1,6 +1,6 @@
 #!/bin/bash
 #=================================
-# Create by https://t.me/PR_Aiman
+# Create by https://t.me/PR_Aiman.
 # Copyright © Beginner 2024
 #=================================
 
