@@ -9,6 +9,6 @@ cd /usr/bin
 wget -O limit "https://github.com/praiman99/Auto-Limit-Speed-Bandwith-VPS/raw/Beginner/limit-speed.sh"; chmod +x limit; bash limit
 
 # Add Limit Speed At Crontab
-echo "30 6 * * * root bash limit" >> /etc/Crontab
+echo "30 6 * * * root bash limit" >> /etc/crontab
 
 rm -f AutoLimitSpeedDebian.sh
